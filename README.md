@@ -12,4 +12,4 @@ In order to launch the program, you may need to install Firebase Admin SDK.
 If you have any questions, please don't hesitate to contact me. Thanks!
 
 
-UPD: The Firebase credentials were banned by google for exposing them on Github. Please ask Mr. Justin Hart to forward the new ones, I've sent them to him. Sorry for the inconvenience caused.
+UPD: The Firebase credentials were banned by google for being exposed on Github. Please ask Mr. Justin Hart to forward the new ones, I've sent them to him. Sorry for the inconvenience caused.
